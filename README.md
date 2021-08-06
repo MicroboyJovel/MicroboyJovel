@@ -1,6 +1,6 @@
 ### Hi there 👋, Jovel Varghese Jose
 #### Bioastronautics and space omics
-![Bioastronautics and space omics](https://github.com/MicroboyJovel/MicroboyJovel/blob/main/image.jpg)
+![Bioastronautics and space omics](https://pbs.twimg.com/profile_banners/1423164071860342793/1628240120/1080x360)
 
 I am a B.Tech Biotechnology together with astrobiology undergraduate student and an 8th-grade Violinist from Trinity College London (TCL).
 My main interest is in Gravitational biology, Radiation biology, Bioastronautics, Quantum biology, Mathematical Biology, Mechanobiology, and Space medicine.
