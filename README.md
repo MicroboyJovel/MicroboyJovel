@@ -1,12 +1,9 @@
-### Hi there 👋, Jovel Varghese Jose
-#### Bioastronautics and space omics
 ![Bioastronautics and space omics](https://pbs.twimg.com/profile_banners/1423164071860342793/1628240120/1080x360)
+### Hi there 👋, Jovel Varghese Jose
 
 I am a B.Tech Biotechnology together with astrobiology undergraduate student and an 8th-grade Violinist from Trinity College London (TCL).
 My main interest is in Gravitational biology, Radiation biology, Bioastronautics, Quantum biology, Mathematical Biology, Mechanobiology, and Space medicine.
 I am a passionate researcher and tries to find an endeavor to solve current problems in projects I am associated with it.
-
-Skills: Python/ C++ 
 
 - 🔭 I’m currently working on Visiting Scholar in Blue Marble Space Institute of Science, USA 
 - 🌱 I’m currently learning B.Tech Biotechnology 
