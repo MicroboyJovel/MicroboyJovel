@@ -5,7 +5,7 @@ I am a B.Tech Biotechnology together with astrobiology undergraduate student.I a
 
 - 🔭 I’m currently working on Visiting Scholar in Blue Marble Space Institute of Science, USA 
 - 🌱 I’m currently learning B.Tech Biotechnology 
-- 👯 I’m looking to collaborate on Gravitational Biology, Radiation Biology, molecular paleobiology, Space omics, Evolutionary biology, Quantum biology 
+- 👯 I’m looking to collaborate on Gravitational biology, Radiation biology, Molecular paleobiology, Space omics, Evolutionary biology, Quantum biology 
 - 📫 How to reach me: www.linkedin.com/in/jovel-varghese-jose-7b82b31a1
 - ⚡ Fun fact: 8th grade Violinist from Trinity College London 
 
